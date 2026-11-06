@@ -1,0 +1,21 @@
+
+{
+  "id": "./",
+  "name": "Dokumentasi Pengiriman",
+  "short_name": "Pengiriman",
+  "description": "Aplikasi dokumentasi foto pengiriman barang",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
